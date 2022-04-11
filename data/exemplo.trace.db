@@ -1,0 +1,9 @@
+2022-04-10 13:51:03 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ID[*]"; expected "INSERT"; SQL statement:
+ID [42001-200]
+2022-04-11 05:52:47 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ID[*]"; expected "INSERT"; SQL statement:
+ID [42001-200]
+2022-04-11 05:52:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "BANKSLIP[*]"; expected "BACKUP, BEGIN"; SQL statement:
+BANKSLIP [42001-200]
